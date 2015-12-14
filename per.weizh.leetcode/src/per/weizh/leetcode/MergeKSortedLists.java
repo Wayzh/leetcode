@@ -1,10 +1,5 @@
 package per.weizh.leetcode;
 
-class ListNode {
-     int val;
-     ListNode next;
-     ListNode(int x) { val = x; }
-}
 
 public class MergeKSortedLists {
 	public ListNode merge(ListNode a,ListNode b){
